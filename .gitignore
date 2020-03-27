@@ -1,0 +1,10 @@
+**/dataset/**
+**/__pycache__/**
+*.py[cod]
+.vscode/*
+**/.ipynb_checkpoints*
+**/*.log
+**/lightening-networks/**
+**/*.tif[f]
+**/*.code-workspace
+**/*.pth
