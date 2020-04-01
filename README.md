@@ -1,4 +1,5 @@
 # <Track1-rawRGB>
+you can download checkpoint : https://drive.google.com/drive/u/0/folders/1VUY4bKA70JDHyzV95FAkclCA4omSBnKY
 
 # Train 
 python main.py --dataset sidd1 --wavelet_func haar --ll_weight 0.2 --n_threads 8 --in_skip --n_resblocks 16 --attn
@@ -26,6 +27,7 @@ test result save path :
 
 
 # <Track2-sRGB>
+you can download checkpoint : https://drive.google.com/drive/u/0/folders/1VUY4bKA70JDHyzV95FAkclCA4omSBnKY
 
 # Train 
 python main.py --dataset sidd2 --n_resblocks 64 --n_threads 8
